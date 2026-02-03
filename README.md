@@ -1,2 +1,2 @@
 # Website-Health-SEO-Strategy-Report
-/Website-Health-and-SEO-Strategy-Report Automation
+Website-Health-and-SEO-Strategy-Report Automation
